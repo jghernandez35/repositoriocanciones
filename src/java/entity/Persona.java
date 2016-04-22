@@ -1,6 +1,6 @@
 package entity;
 // Generated 19/04/2016 02:29:21 PM by Hibernate Tools 4.3.1
-
+//comentario
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -19,7 +19,7 @@ import javax.persistence.Table;
 public class Persona  implements java.io.Serializable {
 
 
-     private Integer id;
+     private Integer id; 
      private String nombre;
      private String apellido;
      private int edad;
