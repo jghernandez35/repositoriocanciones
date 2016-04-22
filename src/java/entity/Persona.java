@@ -1,6 +1,7 @@
 package entity;
 // Generated 19/04/2016 02:29:21 PM by Hibernate Tools 4.3.1
 //comentario desde el navegador
+//comentario desde acer blancoooo
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
